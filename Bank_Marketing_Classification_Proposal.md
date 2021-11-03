@@ -1,15 +1,15 @@
 # _Bank_Marketing_Classification_
 
 
-# Project proposal:
+### Project proposal:
 In this project our task is get a dataset to build a classification model on. We choose to analysis a data set of a bank to determine if the customers will subscribe to a service the bank is offering. Our target will be (yes or no), as a result, the type of the model we will build is a binary classification model. The dataset will be obtained from the uci.edu website and will consist of 45212 rows and 17 columns in total. 
 
-# The Approach:
+### The Approach:
 * Our plan in the project is to find:
 *	Find a data that meets our goals.
 *	Build a classification model to predict the people who are most likely to subscribe to the service.
 
-# Data Description:
+### Data Description:
 *	age (numeric)
 *	job : type of job 
 *	marital : marital status (categorical)
@@ -26,11 +26,11 @@ In this project our task is get a dataset to build a classification model on. We
 *	previous: number of contacts performed before this campaign and for this client (numeric)
 *	poutcome: outcome of the previous marketing campaign (categorical)
 *	balance: numeric.
-# Tools:
+### Tools:
 *	Jupyter.
 *	Git.
 *	Sqlite
-# Libraries:
+### Libraries:
 *	Matplotlib.
 *	Seaborn.
 *	SQLite.
