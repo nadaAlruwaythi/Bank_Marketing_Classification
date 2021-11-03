@@ -12,5 +12,5 @@ The percent of ‘no’ vs. ‘yes’ are %88 vs. %11, that how we know for sure
 > In the graph below we trained our training portion of the data with the random forest classifier and plotted the area under the curve, we can see that the score of the area under the curve is %91 which is considered good. To elaborate, the meaning of the score 91 is that the random forest classifier has successfully classified class 0 as 0 and class 1 as 1 with an accuracy of %91. Noting that we still have a margin of error of %9. 
 Currently, we are working to improve the features we included in training the model and thinking of ways that can improve the score even more.
 
-![image](https://user-images.githubusercontent.com/67028272/140027276-c5320b94-17fe-41e7-a126-b5a8854ed670.png)
+![image](https://user-images.githubusercontent.com/67028272/140031497-a9b1f1ce-3cc3-4d02-bf78-2410bce3bfe4.png)
 
